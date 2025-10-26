@@ -1,0 +1,2 @@
+## To run the code and get the results from the document, simply run the configurations provided in each experiment from the document. 
+## For Colab, simply adjust the parameters according to the command lines in the configurations; otherwise, keep other parameters as default values provided in the jupyter notebook.
